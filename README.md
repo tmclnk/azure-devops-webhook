@@ -10,11 +10,11 @@ so you can use the "Run As > Run on Server" option context menu option.
 ```
 git clone https://github.com/tmcoma/azure-devops-webhook.git
 cd azure-devops-webhook
-mvn clean verify
+mvn clean package 
 mvn cargo:run
 ```
 
-This will download and run a Tomcat container at http://localhost:8080/service-portal-webhook.
+This will download and run a Tomcat container at http://localhost:8080/azure-devops-webhook.
 
 You can override the default ports (note the parens around the `-D` flags).
 ```
