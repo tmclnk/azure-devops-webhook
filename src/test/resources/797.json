@@ -1,0 +1,54 @@
+{  
+   "id":797,
+   "rev":8,
+   "fields":{  
+      "System.AreaPath":"ocio-vsts-extensions\\service-portal",
+      "System.TeamProject":"ocio-vsts-extensions",
+      "System.IterationPath":"ocio-vsts-extensions\\Phase 1",
+      "System.WorkItemType":"User Story",
+      "System.State":"Active",
+      "System.Reason":"Implementation started",
+      "System.AssignedTo":"McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "System.CreatedDate":"2018-09-13T18:48:18.74Z",
+      "System.CreatedBy":"McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "System.ChangedDate":"2018-09-14T19:28:51.457Z",
+      "System.ChangedBy":"McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "System.CommentCount":1,
+      "System.Title":"Email Service Portal Orchestrator on Ticket Creation",
+      "System.BoardColumn":"Active",
+      "System.BoardColumnDone":false,
+      "Microsoft.VSTS.Scheduling.StoryPoints":12.0,
+      "Microsoft.VSTS.Common.StateChangeDate":"2018-09-14T19:23:36.34Z",
+      "Microsoft.VSTS.Common.ActivatedDate":"2018-09-14T19:23:36.34Z",
+      "Microsoft.VSTS.Common.ActivatedBy":"McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "Microsoft.VSTS.Common.Priority":2,
+      "Microsoft.VSTS.Common.ValueArea":"Business",
+      "WEF_5F62CC58E45E411EBC85A117520E1924_Kanban.Column":"Active",
+      "WEF_5F62CC58E45E411EBC85A117520E1924_Kanban.Column.Done":false,
+      "System.Description":"A VSS Extension should be created which allows projects to publish messages to the (existing) Service Portal orchestrator so that Service Portal tickets are created when their tasks become active."
+   },
+   "_links":{  
+      "self":{  
+         "href":"https://dev.azure.com/prairiegrade/_apis/wit/workItems/797"
+      },
+      "workItemUpdates":{  
+         "href":"https://dev.azure.com/prairiegrade/_apis/wit/workItems/797/updates"
+      },
+      "workItemRevisions":{  
+         "href":"https://dev.azure.com/prairiegrade/_apis/wit/workItems/797/revisions"
+      },
+      "workItemHistory":{  
+         "href":"https://dev.azure.com/prairiegrade/_apis/wit/workItems/797/history"
+      },
+      "html":{  
+         "href":"https://dev.azure.com/prairiegrade/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=797"
+      },
+      "workItemType":{  
+         "href":"https://dev.azure.com/prairiegrade/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItemTypes/User%20Story"
+      },
+      "fields":{  
+         "href":"https://dev.azure.com/prairiegrade/_apis/wit/fields"
+      }
+   },
+   "url":"https://dev.azure.com/prairiegrade/_apis/wit/workItems/797"
+}

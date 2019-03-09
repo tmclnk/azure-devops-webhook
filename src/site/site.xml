@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<project name="service-portal-webhook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/DECORATION/1.0.0" xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+	<bannerLeft>
+		<name>Service Portal Webhooks</name>
+	</bannerLeft>
+	<skin>
+		<groupId>org.apache.maven.skins</groupId>
+		<artifactId>maven-fluido-skin</artifactId>
+		<version>1.7</version>
+	</skin>
+	<custom>
+		<fluidoSkin>
+			<topBarEnabled>false</topBarEnabled>
+			<sideBarEnabled>true</sideBarEnabled>
+		</fluidoSkin>
+	</custom>
+
+	<body>
+		<menu ref="reports" inherit="bottom"/>
+		<menu name="Configuration" >
+			<item href="azure-devops-configuration.html" name="Azure DevOps Configuration"/>
+			<item href="example-payload.html" name="Example Payload"/>
+			<item href="example-email.html" name="Example Outgoing Email"/>
+			<item href="security.html" name="Security"/>
+		</menu>
+		<menu name="Related Links">
+			<item name="Azure DevOps Service Hooks" href="https://docs.microsoft.com/en-us/azure/devops/service-hooks/services/webhooks?view=azure-devops"/>
+			<item name="SCSM Orchestrator" href="https://blogs.technet.microsoft.com/antoni/2016/04/07/system-center-service-manager-scsm-and-orchestrator-scorch-integration-and-using-the-scsm-self-service-portal-ssp-as-a-front-end-to-orchestrator"/>
+			<item name="OCIO Service Portal" href="https://serviceportal.ne.gov"/>
+			<item name="CAT Service Portal" href="https://catserviceportal.ne.gov"/>
+		</menu>
+	</body>
+</project>

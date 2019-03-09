@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: service-portal-webhook
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: tom.mclaughlin
+Specification-Title: service-portal-webhook
+Implementation-Vendor-Id: gov.ne.ocio
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_162
+Specification-Version: 1.0

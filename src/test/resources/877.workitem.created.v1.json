@@ -1,0 +1,84 @@
+{
+  "subscriptionId": "7103610d-f47a-4a13-b544-40a1c21b72c7",
+  "notificationId": 3,
+  "id": "5c18a3a2-6a7a-47d8-8c9e-c17725d0da18",
+  "eventType": "workitem.created",
+  "publisherId": "tfs",
+  "message": {
+    "text": "User Story #877 (test) created by McLaughlin, Tom\r\n(https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&id=877)",
+    "html": "<a href=\"https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&amp;id=877\">User Story #877</a> (test) created by McLaughlin, Tom",
+    "markdown": "[User Story #877](https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&id=877) (test) created by McLaughlin, Tom"
+  },
+  "detailedMessage": {
+    "text": "User Story #877 (test) created by McLaughlin, Tom\r\n(https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&id=877)\r\n\r\n- Area: testproject\\Netscaler Forms\r\n- Iteration: testproject\r\n- State: New\r\n",
+    "html": "<a href=\"https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&amp;id=877\">User Story #877</a> (test) created by McLaughlin, Tom<ul>\r\n<li>Area: testproject\\Netscaler Forms</li>\r\n<li>Iteration: testproject</li>\r\n<li>State: New</li></ul>",
+    "markdown": "[User Story #877](https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&id=877) (test) created by McLaughlin, Tom\r\n\r\n* Area: testproject\\Netscaler Forms\r\n* Iteration: testproject\r\n* State: New\r\n"
+  },
+  "resource": {
+    "id": 877,
+    "rev": 1,
+    "fields": {
+      "System.WorkItemType": "User Story",
+      "System.State": "New",
+      "System.Reason": "New",
+      "System.CreatedDate": "2019-02-01T22:59:47.927Z",
+      "System.CreatedBy": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "System.ChangedDate": "2019-02-01T22:59:47.927Z",
+      "System.ChangedBy": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+      "System.CommentCount": 0,
+      "System.TeamProject": "testproject",
+      "System.AreaPath": "testproject\\Netscaler Forms",
+      "System.IterationPath": "testproject",
+      "System.Title": "test",
+      "System.BoardColumn": "New",
+      "System.BoardColumnDone": false,
+      "Microsoft.VSTS.Common.StateChangeDate": "2019-02-01T22:59:47.927Z",
+      "Microsoft.VSTS.Common.Priority": 2,
+      "Microsoft.VSTS.Common.ValueArea": "Business",
+      "WEF_0ACD82F6CA2F4864AF91A0C19E6F3814_Kanban.Column": "New",
+      "WEF_0ACD82F6CA2F4864AF91A0C19E6F3814_Kanban.Column.Done": false,
+      "WEF_492A6594172B412090E0620129523F5B_Kanban.Column": "New",
+      "WEF_492A6594172B412090E0620129523F5B_Kanban.Column.Done": false
+    },
+    "_links": {
+      "self": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItems/877"
+      },
+      "workItemUpdates": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItems/877/updates"
+      },
+      "workItemRevisions": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItems/877/revisions"
+      },
+      "workItemComments": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItems/877/comments"
+      },
+      "html": {
+        "href": "https://dev.azure.com/tommclaughlin/web/wi.aspx?pcguid=636b4784-c2cb-4309-98bc-7fa8e559b748&id=877"
+      },
+      "workItemType": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItemTypes/User%20Story"
+      },
+      "fields": {
+        "href": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/fields"
+      }
+    },
+    "url": "https://dev.azure.com/tommclaughlin/dc5329bd-bc74-48bb-af94-500843428988/_apis/wit/workItems/877"
+  },
+  "resourceVersion": "1.0",
+  "resourceContainers": {
+    "collection": {
+      "id": "636b4784-c2cb-4309-98bc-7fa8e559b748",
+      "baseUrl": "https://dev.azure.com/tommclaughlin/"
+    },
+    "account": {
+      "id": "b148cb47-f3f2-47ea-b075-bdeb0ce78bf9",
+      "baseUrl": "https://dev.azure.com/tommclaughlin/"
+    },
+    "project": {
+      "id": "dc5329bd-bc74-48bb-af94-500843428988",
+      "baseUrl": "https://dev.azure.com/tommclaughlin/"
+    }
+  },
+  "createdDate": "2019-02-01T22:59:54.7021109Z"
+}

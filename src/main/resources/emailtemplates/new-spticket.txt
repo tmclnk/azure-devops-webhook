@@ -1,0 +1,5 @@
+Ticket for ${ticket.supportTeam}
+
+Originated from Azure DevOps Project "${workItem.project}"
+
+${workItem.htmlLink}

@@ -1,0 +1,162 @@
+{
+	"subscriptionId": "145cc742-6a51-4e56-9d5f-d605ae2713f4",
+	"notificationId": 1,
+	"id": "8509f2fe-3927-4eda-8609-f0e24c7c2cf2",
+	"eventType": "workitem.updated",
+	"publisherId": "tfs",
+	"message": {
+		"text": "User Story #795 (Tomcat Deploy Task needs \"Fail on...\" String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom\r\n(https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=795)",
+		"html": "<a href=\"https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&amp;id=795\">User Story #795</a> (Tomcat Deploy Task needs &quot;Fail on...&quot; String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom",
+		"markdown": "[User Story #795](https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=795) (Tomcat Deploy Task needs \"Fail on...\" String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom"
+	},
+	"detailedMessage": {
+		"text": "User Story #795 (Tomcat Deploy Task needs \"Fail on...\" String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom\r\n(https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=795)\r\n\r\n- New State: Active\r\n- New Assigned to: McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>\r\n",
+		"html": "<a href=\"https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&amp;id=795\">User Story #795</a> (Tomcat Deploy Task needs &quot;Fail on...&quot; String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom<ul>\r\n<li>New State: Active</li>\r\n<li>New Assigned to: McLaughlin, Tom <tom.mclaughlin@Nebraska.gov></li></ul>",
+		"markdown": "[User Story #795](https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=795) (Tomcat Deploy Task needs \"Fail on...\" String(s)) transitioned to Active and assigned to McLaughlin, Tom by McLaughlin, Tom\r\n\r\n* New State: Active\r\n* New Assigned to: McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>\r\n"
+	},
+	"resource": {
+		"id": 6,
+		"workItemId": 795,
+		"rev": 6,
+		"revisedBy": {
+			"id": "d6f4f820-d94f-6f2b-a5f4-00dcb3c30998",
+			"name": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+			"displayName": "McLaughlin, Tom",
+			"url": "https://app.vssps.visualstudio.com/A4129e7fd-b157-43e9-948d-047c1cf0d579/_apis/Identities/d6f4f820-d94f-6f2b-a5f4-00dcb3c30998",
+			"_links": {
+				"avatar": {
+					"href": "https://prairiegrade.visualstudio.com/_apis/GraphProfile/MemberAvatars/aad.ZDZmNGY4MjAtZDk0Zi03ZjJiLWE1ZjQtMDBkY2IzYzMwOTk4"
+				}
+			},
+			"uniqueName": "tom.mclaughlin@Nebraska.gov",
+			"imageUrl": "https://prairiegrade.visualstudio.com/_api/_common/identityImage?id=d6f4f820-d94f-6f2b-a5f4-00dcb3c30998",
+			"descriptor": "aad.ZDZmNGY4MjAtZDk0Zi03ZjJiLWE1ZjQtMDBkY2IzYzMwOTk4"
+		},
+		"revisedDate": "9999-01-01T00:00:00Z",
+		"fields": {
+			"System.Rev": {
+				"oldValue": 5,
+				"newValue": 6
+			},
+			"System.AuthorizedDate": {
+				"oldValue": "2018-09-13T18:56:11.383Z",
+				"newValue": "2018-10-11T23:35:33.45Z"
+			},
+			"System.RevisedDate": {
+				"oldValue": "2018-10-11T23:35:33.45Z",
+				"newValue": "9999-01-01T00:00:00Z"
+			},
+			"System.State": {
+				"oldValue": "New",
+				"newValue": "Active"
+			},
+			"System.Reason": {
+				"oldValue": "New",
+				"newValue": "Implementation started"
+			},
+			"System.AssignedTo": {
+				"newValue": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>"
+			},
+			"System.ChangedDate": {
+				"oldValue": "2018-09-13T18:56:11.383Z",
+				"newValue": "2018-10-11T23:35:33.45Z"
+			},
+			"System.Watermark": {
+				"oldValue": 2546,
+				"newValue": 3193
+			},
+			"System.BoardColumn": {
+				"oldValue": "New",
+				"newValue": "Active"
+			},
+			"Microsoft.VSTS.Common.StateChangeDate": {
+				"oldValue": "2018-09-13T18:02:10.3Z",
+				"newValue": "2018-10-11T23:35:33.45Z"
+			},
+			"Microsoft.VSTS.Common.ActivatedDate": {
+				"newValue": "2018-10-11T23:35:33.45Z"
+			},
+			"Microsoft.VSTS.Common.ActivatedBy": {
+				"newValue": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>"
+			},
+			"WEF_5F62CC58E45E411EBC85A117520E1924_Kanban.Column": {
+				"oldValue": "New",
+				"newValue": "Active"
+			}
+		},
+		"_links": {
+			"self": {
+				"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/updates/6"
+			},
+			"workItemUpdates": {
+				"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/updates"
+			},
+			"parent": {
+				"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795"
+			},
+			"html": {
+				"href": "https://prairiegrade.visualstudio.com/web/wi.aspx?pcguid=33828312-fa25-481a-aeec-20337b774cd0&id=795"
+			}
+		},
+		"url": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/updates/6",
+		"revision": {
+			"id": 795,
+			"rev": 6,
+			"fields": {
+				"System.AreaPath": "ocio-vsts-extensions\\tomcat",
+				"System.TeamProject": "ocio-vsts-extensions",
+				"System.IterationPath": "ocio-vsts-extensions\\Phase 1",
+				"System.WorkItemType": "User Story",
+				"System.State": "Active",
+				"System.Reason": "Implementation started",
+				"System.AssignedTo": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+				"System.CreatedDate": "2018-09-13T18:02:10.3Z",
+				"System.CreatedBy": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+				"System.ChangedDate": "2018-10-11T23:35:33.45Z",
+				"System.ChangedBy": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+				"System.CommentCount": 0,
+				"System.Title": "Tomcat Deploy Task needs \"Fail on...\" String(s)",
+				"System.BoardColumn": "Active",
+				"System.BoardColumnDone": false,
+				"Microsoft.VSTS.Common.StateChangeDate": "2018-10-11T23:35:33.45Z",
+				"Microsoft.VSTS.Common.ActivatedDate": "2018-10-11T23:35:33.45Z",
+				"Microsoft.VSTS.Common.ActivatedBy": "McLaughlin, Tom <tom.mclaughlin@Nebraska.gov>",
+				"Microsoft.VSTS.Common.Priority": 2,
+				"Microsoft.VSTS.Common.StackRank": 1000000000.0,
+				"Microsoft.VSTS.Common.ValueArea": "Business",
+				"WEF_5F62CC58E45E411EBC85A117520E1924_Kanban.Column": "Active",
+				"WEF_5F62CC58E45E411EBC85A117520E1924_Kanban.Column.Done": false,
+				"System.Description": "Currently the user can select a &quot;success&quot; String; the config needs to also provide a way for the user to specify either a string or maybe a regex that indicates at deploy has failed",
+				"Microsoft.VSTS.Common.AcceptanceCriteria": "Under the Advanced menu, the Tomcat Deploy task has&nbsp;"
+			},
+			"_links": {
+				"self": {
+					"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/revisions/6"
+				},
+				"workItemRevisions": {
+					"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/revisions"
+				},
+				"parent": {
+					"href": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795"
+				}
+			},
+			"url": "https://prairiegrade.visualstudio.com/02366206-5356-414a-bcbb-7c31c7849049/_apis/wit/workItems/795/revisions/6"
+		}
+	},
+	"resourceVersion": "1.0",
+	"resourceContainers": {
+		"collection": {
+			"id": "33828312-fa25-481a-aeec-20337b774cd0",
+			"baseUrl": "https://prairiegrade.visualstudio.com/"
+		},
+		"account": {
+			"id": "4129e7fd-b157-43e9-948d-047c1cf0d579",
+			"baseUrl": "https://prairiegrade.visualstudio.com/"
+		},
+		"project": {
+			"id": "02366206-5356-414a-bcbb-7c31c7849049",
+			"baseUrl": "https://prairiegrade.visualstudio.com/"
+		}
+	},
+	"createdDate": "2018-10-11T23:35:35.7136019Z"
+}

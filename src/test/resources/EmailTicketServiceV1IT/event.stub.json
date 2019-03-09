@@ -1,0 +1,15 @@
+{
+	"resource": {
+		"revision": {
+			"id": "1753",
+			"fields": {
+				"System.TeamProject": "DevOps Infrastructure"
+			}
+		}
+	},
+	"resourceContainers": {
+		"project": {
+			"baseUrl": "https://prairiegrade.visualstudio.com/"
+		}
+	}
+}
