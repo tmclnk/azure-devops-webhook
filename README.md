@@ -1,6 +1,8 @@
 # Azure Devops Webhooks
 This project contains a Java Web Application which will receive a JSON payload from Azure DevOps and send a templated email. You can use a project like this if you need Azure DevOps subscription based services that link to services inside a corporate DMZ (e.g. JMS Queues, web services, internal Jenkins servers, messages to internal IRC channels, etc).
 
+[![Build Status](https://dev.azure.com/prairiegrade/azure-devops-webhook/_apis/build/status/tmcoma.azure-devops-webhook?branchName=master)](https://dev.azure.com/prairiegrade/azure-devops-webhook/_build/latest?definitionId=7&branchName=master)
+
 # Requirements
 This project requires Java and Maven to run. You can also import it as a Maven
 project in Eclipse and it will function as a regular Dynamic Web Application,
